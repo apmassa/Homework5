@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="splash_text">Welcome to the Quiz!</string>
+    <string name="confirm_button_text">Confirm</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="wrong_toast">Wrong!</string>
+    <string name="score_text">Your Score:</string>
+</resources>
